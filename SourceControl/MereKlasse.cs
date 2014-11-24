@@ -6,10 +6,7 @@ using System.Threading.Tasks;
 
 namespace SourceControl
 {
-    class NyKlasse
+    class MereKlasse
     {
-        int hej;
-        int hejigen;
-        int mereint;
     }
 }
