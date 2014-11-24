@@ -11,7 +11,7 @@ namespace SourceControl
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            Console.WriteLine("Mere hello world!");
+            Console.WriteLine("Endnu mere hello world!");
             Console.ReadKey();
         }
     }
