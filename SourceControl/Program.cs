@@ -12,6 +12,7 @@ namespace SourceControl
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Endnu mere hello world!");
+            Console.WriteLine("Og så lige lidt mere hello world");
             Console.ReadKey();
         }
     }
